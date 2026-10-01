@@ -1,0 +1,17 @@
+code,created_at,customer_code,manager_code,order_status_code,delivery_address
+order_001,2026-01-10T10:15:00+03:00,customer_001,manager_001,order_status_005,Москва Ленина 10-15
+order_002,2026-01-11T12:30:00+03:00,customer_002,manager_002,order_status_005,Санкт-Петербург Невский 24-8
+order_003,2026-01-12T09:45:00+03:00,customer_003,manager_001,order_status_004,Казань Баумана 7-21
+order_004,2026-01-13T16:20:00+03:00,customer_001,manager_003,order_status_003,Москва Ленина 10-15
+order_005,2026-01-14T14:10:00+03:00,customer_004,manager_004,order_status_002,Екатеринбург Мира 18-4
+order_006,2026-01-15T18:05:00+03:00,customer_005,manager_005,order_status_006,Новосибирск Советская 5-12
+order_007,2026-01-16T11:40:00+03:00,customer_006,manager_006,order_status_005,Нижний Новгород Большая Покровская 33-6
+order_008,2026-01-17T13:55:00+03:00,customer_007,manager_007,order_status_004,Самара Молодогвардейская 41-17
+order_009,2026-01-18T10:05:00+03:00,customer_008,manager_008,order_status_003,Ростов-на-Дону Садовая 12-9
+order_010,2026-01-19T15:35:00+03:00,customer_009,manager_002,order_status_002,Пермь Комсомольский 68-3
+order_011,2026-01-20T17:25:00+03:00,customer_010,manager_003,order_status_001,Уфа Октября 93-44
+order_012,2026-01-21T09:10:00+03:00,customer_011,manager_004,order_status_005,Краснодар Красная 55-18
+order_013,2026-01-22T12:50:00+03:00,customer_012,manager_005,order_status_005,Воронеж Московский 102-27
+order_014,2026-01-23T16:45:00+03:00,customer_013,manager_006,order_status_004,Тюмень Республики 84-11
+order_015,2026-01-24T14:30:00+03:00,customer_014,manager_007,order_status_003,Ярославль Свободы 19-5
+order_016,2026-01-25T18:20:00+03:00,customer_015,manager_008,order_status_006,Тула Советская 30-22

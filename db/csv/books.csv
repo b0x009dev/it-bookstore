@@ -1,0 +1,17 @@
+code,name,publisher_code,theme_code,language_code,year,quantity,price
+book_001,Designing Data-Intensive Applications,publisher_001,theme_001,language_001,2017,5,5200.00
+book_002,Fluent Python,publisher_001,theme_002,language_001,2022,6,6100.00
+book_003,Eloquent JavaScript,publisher_003,theme_003,language_001,2024,9,4300.00
+book_004,Grokking Algorithms,publisher_002,theme_004,language_001,2016,7,4700.00
+book_005,Refactoring,publisher_004,theme_008,language_001,2018,5,5800.00
+book_006,Clean Code,publisher_005,theme_008,language_001,2008,4,5400.00
+book_007,The Pragmatic Programmer,publisher_004,theme_005,language_001,2019,5,4900.00
+book_008,Patterns of Enterprise Application Architecture,publisher_004,theme_005,language_001,2002,2,5600.00
+book_009,React 17. Разработка веб-приложений на JavaScript,publisher_006,theme_003,language_002,2021,4,2200.00
+book_010,PostgreSQL. Основы языка SQL,publisher_006,theme_001,language_002,2026,6,1800.00
+book_011,PostgreSQL 16 изнутри,publisher_007,theme_001,language_002,2024,4,3200.00
+book_012,Паттерны проектирования на платформе .NET,publisher_008,theme_008,language_002,2016,3,2100.00
+book_013,JavaScript и Node.js для веб-разработчиков,publisher_006,theme_003,language_002,2024,5,2400.00
+book_014,Разработка веб-приложений на PHP 8,publisher_006,theme_007,language_002,2024,5,1900.00
+book_015,PHP 8,publisher_006,theme_007,language_002,2025,0,2800.00
+book_016,JavaScript. Дополнительные уроки для начинающих,publisher_006,theme_003,language_002,2025,8,1500.00

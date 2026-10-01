@@ -1,0 +1,19 @@
+{
+  "name": "it-bookstore",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "db:init": "node db/init-db.js",
+    "db:clear": "node db/clear-db.js",
+    "db:seed": "node db/seed-db.js",
+    "pr03:demo": "node pr-03/build-demo.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "pg": "^8.23.0"
+  }
+}

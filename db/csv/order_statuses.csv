@@ -1,0 +1,7 @@
+code,name,title_ru
+order_status_001,new,создан
+order_status_002,confirmed,подтвержден
+order_status_003,processing,в обработке
+order_status_004,in_delivery,в доставке
+order_status_005,completed,завершен
+order_status_006,cancelled,отменен

@@ -1,0 +1,17 @@
+code,name,surname,login,password_hash,email,phone,default_address
+customer_001,Иван,Петров,ivan.petrov,hash_8b6f1f8d-5c3d-4b4a-9a1c-7d2e6c5a0011,ivan.petrov@example.com,+79001234501,Москва Ленина 10-15
+customer_002,Анна,Соколова,anna.sokolova,hash_2f4b7a90-6d1e-4c8f-b3a7-1c9d5e8f0022,anna.sokolova@example.com,+79001234502,Санкт-Петербург Невский 24-8
+customer_003,Дмитрий,Кузнецов,dmitry.kuznetsov,hash_6c2e9d41-8a5f-4e3b-91d4-7f0a2c6b0033,dmitry.kuznetsov@example.com,+79001234503,Казань Баумана 7-21
+customer_004,Мария,Орлова,maria.orlova,hash_1d9a4c73-3e6b-4f0a-a2c8-5b7d9e1f0044,maria.orlova@example.com,+79001234504,Екатеринбург Мира 18-4
+customer_005,Алексей,Смирнов,alexey.smirnov,hash_7e3c1b52-9d4a-4a6e-b8f1-2c5d7a9b0055,alexey.smirnov@example.com,+79001234505,Новосибирск Советская 5-12
+customer_006,Ольга,Васильева,olga.vasileva,hash_4a8d6f21-1c9b-4e7a-93d5-8f2b6c1e0066,olga.vasileva@example.com,+79001234506,Нижний Новгород Большая Покровская 33-6
+customer_007,Павел,Михайлов,pavel.mikhailov,hash_9b1e5c84-7f2d-4c3a-a6e9-1d8b4f7c0077,pavel.mikhailov@example.com,+79001234507,Самара Молодогвардейская 41-17
+customer_008,Екатерина,Новикова,ekaterina.novikova,hash_5f7a2d16-4b8c-4e9f-82a1-6c3d9b5e0088,ekaterina.novikova@example.com,+79001234508,Ростов-на-Дону Садовая 12-9
+customer_009,Никита,Фролов,nikita.frolov,hash_3c6b8e95-2a1d-4f7c-b9e4-8d5a1f2c0099,nikita.frolov@example.com,+79001234509,Пермь Комсомольский 68-3
+customer_010,Татьяна,Белова,tatyana.belova,hash_0a4e7b63-5d9c-4b1f-8e2a-3f6c9d8b0100,tatyana.belova@example.com,+79001234510,Уфа Октября 93-44
+customer_011,Григорий,Семенов,grigory.semenov,hash_6f1c3a78-9e2b-4d5f-a8c1-7b4e0d9a0111,grigory.semenov@example.com,+79001234511,Краснодар Красная 55-18
+customer_012,Виктория,Лебедева,victoria.lebedeva,hash_2b8d5e47-1f6a-4c9b-83d2-5e7a0c1f0122,victoria.lebedeva@example.com,+79001234512,Воронеж Московский 102-27
+customer_013,Роман,Захаров,roman.zakharov,hash_8e5a1c29-6b3f-4d7e-a0c9-2f1b5d8e0133,roman.zakharov@example.com,+79001234513,Тюмень Республики 84-11
+customer_014,Алина,Крылова,alina.krylova,hash_1f9c6d82-4a7e-4b3d-95c1-8e2f0a6b0144,alina.krylova@example.com,+79001234514,Ярославль Свободы 19-5
+customer_015,Максим,Егоров,maxim.egorov,hash_7a2d4f16-8c5b-4e1a-b6d9-3c0f5e7a0155,maxim.egorov@example.com,+79001234515,Тула Советская 30-22
+customer_016,Светлана,Павлова,svetlana.pavlova,hash_4d6e9b31-2f8a-4c5d-91e7-6b3a0f2c0166,svetlana.pavlova@example.com,+79001234516,Ижевск Пушкинская 71-14
